@@ -4,4 +4,4 @@ As an important building block of human existence, we have to investigate human 
 
 In this project, I used ChatGPT API to label my tweets [TO BE CONTINUED]
 
-The dataset is available at this hugging face link: [Sinsinnati/Tweet-Emotion-Detection](https://huggingface.co/datasets/Sinsinnati/Tweet-Emotion-Detection)https://huggingface.co/datasets/Sinsinnati/Tweet-Emotion-Detection
+The dataset is available at this hugging face link: https://huggingface.co/datasets/Sinsinnati/Tweet-Emotion-Detection
